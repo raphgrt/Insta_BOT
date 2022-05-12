@@ -1,4 +1,4 @@
-from password import * # Mes mots de passes
+from password import ACCOUNT_LOGIN as ACCOUNT_USERNAME ,ACCOUNT_PASSWORD # Le compte RaphBot
 from typing import Dict
 from Anniversaire import Anniversaire
 from instagrapi import Client
